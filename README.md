@@ -1,3 +1,1 @@
-# pano-stitcher
-
-pano-stitcher
+glog demo
